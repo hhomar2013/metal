@@ -1,7 +1,6 @@
 /*******************************/
 /********* General CSS *********/
 /*******************************/
-
 @import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;500&display=swap');
 body {
     color: #666666;
@@ -85,7 +84,7 @@ a:focus {
 
 .top-bar .logo {
     padding: 15px 0;
-    text-align: left;
+    text-align: right;
     overflow: hidden;
 }
 
